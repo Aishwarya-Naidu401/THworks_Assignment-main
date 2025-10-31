@@ -116,6 +116,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
 
-Your Name – Ibrahim Khalandar – ibrahimkhalandar02@gmail.com
+Your Name – Aishwarya Naidu – aishwaryad401@gmail.com
 
-Project Link: https://t-hworks-assignment.vercel.app/
